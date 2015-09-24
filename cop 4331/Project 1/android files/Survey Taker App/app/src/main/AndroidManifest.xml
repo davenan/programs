@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dave.finalproject" >
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".LoginActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".RegisterActivity"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name=".MainMenuActivity"
+            android:label="@string/title_activity_main_menu" >
+        </activity>
+        <activity
+            android:name=".CreateSurveyActivity"
+            android:label="@string/title_activity_create_survey" >
+        </activity>
+        <activity
+            android:name=".TakeSurveyConnector"
+            android:label="@string/title_activity_take_survey" >
+        </activity>
+        <activity
+            android:name=".CreateSurveyConnector"
+            android:label="@string/title_activity_create_survey_connector" >
+        </activity>
+        <activity
+            android:name=".MultipleChoiceActivity"
+            android:label="@string/title_activity_multiple_choice" >
+        </activity>
+        <activity
+            android:name=".AgreeDisagreeActivity"
+            android:label="@string/title_activity_agree_disagree" >
+        </activity>
+        <activity
+            android:name=".ShortAnswerActivity"
+            android:label="@string/title_activity_short_answer" >
+        </activity>
+        <activity
+            android:name=".AnswerMCActivity"
+            android:label="@string/title_activity_answer_mc" >
+        </activity>
+        <activity
+            android:name=".AnswerMCQuestion"
+            android:label="@string/title_activity_answer_mcquestion" >
+        </activity>
+        <activity
+            android:name=".AnswerADQuestion"
+            android:label="@string/title_activity_answer_ad" >
+        </activity>
+        <activity
+            android:name=".AnswerSAQuestion"
+            android:label="@string/title_activity_answer_saquestion" >
+        </activity>
+        <activity
+            android:name=".ShowSurveyResults"
+            android:label="@string/title_activity_show_survey_results" >
+        </activity>
+        <activity
+            android:name=".ShowSurveyConnector"
+            android:label="@string/title_activity_show_survey_connector" >
+        </activity>
+        <activity
+            android:name=".AnswerADActivity"
+            android:label="@string/title_activity_answer_ad" >
+        </activity>
+        <activity
+            android:name=".AnswerSAActivity"
+            android:label="@string/title_activity_answer_sa" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,29 @@
+const z = 15;
+int x, y;
+
+procedure test;
+        int x, y;
+        begin
+                x := z;
+                y := x + 1;
+                write y;
+        end;
+
+begin
+  call test;
+
+        x := 2 * 2; /* 4 */
+        write x;
+
+        y := x - 1; /* 3 */
+        write y;
+
+        x := x / 2; /* 2 */
+        write x;
+
+        y := (z + 1) / (8 * 2); /* 1 */
+        write y;
+
+        write x+y*x;
+
+end.

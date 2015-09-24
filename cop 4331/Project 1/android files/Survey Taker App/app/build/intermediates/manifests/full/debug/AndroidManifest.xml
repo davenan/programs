@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.dave.finalproject"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.dave.finalproject.LoginActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.RegisterActivity"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.MainMenuActivity"
+            android:label="@string/title_activity_main_menu" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.CreateSurveyActivity"
+            android:label="@string/title_activity_create_survey" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.TakeSurveyConnector"
+            android:label="@string/title_activity_take_survey" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.CreateSurveyConnector"
+            android:label="@string/title_activity_create_survey_connector" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.MultipleChoiceActivity"
+            android:label="@string/title_activity_multiple_choice" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.AgreeDisagreeActivity"
+            android:label="@string/title_activity_agree_disagree" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.ShortAnswerActivity"
+            android:label="@string/title_activity_short_answer" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.AnswerMCActivity"
+            android:label="@string/title_activity_answer_mc" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.AnswerMCQuestion"
+            android:label="@string/title_activity_answer_mcquestion" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.AnswerADQuestion"
+            android:label="@string/title_activity_answer_ad" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.AnswerSAQuestion"
+            android:label="@string/title_activity_answer_saquestion" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.ShowSurveyResults"
+            android:label="@string/title_activity_show_survey_results" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.ShowSurveyConnector"
+            android:label="@string/title_activity_show_survey_connector" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.AnswerADActivity"
+            android:label="@string/title_activity_answer_ad" >
+        </activity>
+        <activity
+            android:name="com.example.dave.finalproject.AnswerSAActivity"
+            android:label="@string/title_activity_answer_sa" >
+        </activity>
+    </application>
+
+</manifest>

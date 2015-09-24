@@ -1,0 +1,24 @@
+const z = 15; int x, w, y;
+begin
+   x := 4;
+   w := x*10;
+   x := x + 2*w*(3+x);
+   if x > 1 then
+      if w = 40 then
+         while x <> 1 do
+            x := x/2;
+   if x = 2 then
+      begin
+        w := w + 33;
+      end
+   else
+      x := y/2;
+   x := z*w+4;
+   while w < 1200 do
+      begin
+        w := w*2;
+      end;
+   if odd w+1 then write w;
+   read y;
+end.
+ 
