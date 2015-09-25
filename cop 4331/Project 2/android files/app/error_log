@@ -1,0 +1,34 @@
+[30-Jul-2015 16:19:11 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/leternel/public_html/project/app/chat.php on line 2
+[30-Jul-2015 16:19:11 America/Denver] PHP Fatal error:  Cannot redeclare class main in /home4/leternel/public_html/project/main.php on line 2
+[30-Jul-2015 16:20:24 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/leternel/public_html/project/app/chat.php on line 2
+[30-Jul-2015 16:20:24 America/Denver] PHP Fatal error:  Cannot redeclare class main in /home4/leternel/public_html/project/main.php on line 2
+[30-Jul-2015 16:21:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/leternel/public_html/project/app/chat.php on line 2
+[30-Jul-2015 16:21:20 America/Denver] PHP Fatal error:  Cannot redeclare class main in /home4/leternel/public_html/project/main.php on line 2
+[30-Jul-2015 16:21:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/leternel/public_html/project/app/chat.php on line 2
+[30-Jul-2015 16:21:54 America/Denver] PHP Fatal error:  Cannot redeclare class main in /home4/leternel/public_html/project/main.php on line 2
+[30-Jul-2015 16:22:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/leternel/public_html/project/app/chat.php on line 2
+[30-Jul-2015 16:22:31 America/Denver] PHP Fatal error:  Cannot redeclare class main in /home4/leternel/public_html/project/main.php on line 2
+[30-Jul-2015 16:23:02 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/leternel/public_html/project/app/chat.php on line 2
+[30-Jul-2015 16:23:02 America/Denver] PHP Fatal error:  Cannot redeclare class main in /home4/leternel/public_html/project/main.php on line 2
+[30-Jul-2015 16:23:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/leternel/public_html/project/app/chat.php on line 2
+[30-Jul-2015 16:23:32 America/Denver] PHP Fatal error:  Cannot redeclare class main in /home4/leternel/public_html/project/main.php on line 2
+[30-Jul-2015 16:24:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/leternel/public_html/project/app/chat.php on line 2
+[30-Jul-2015 16:24:48 America/Denver] PHP Fatal error:  Cannot redeclare class main in /home4/leternel/public_html/project/main.php on line 2
+[30-Jul-2015 16:25:42 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/leternel/public_html/project/app/chat.php on line 2
+[30-Jul-2015 16:25:42 America/Denver] PHP Fatal error:  Cannot redeclare class main in /home4/leternel/public_html/project/main.php on line 2
+[30-Jul-2015 16:26:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/leternel/public_html/project/app/chat.php on line 2
+[30-Jul-2015 16:26:19 America/Denver] PHP Fatal error:  Cannot redeclare class main in /home4/leternel/public_html/project/main.php on line 2
+[30-Jul-2015 16:26:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/leternel/public_html/project/app/chat.php on line 2
+[30-Jul-2015 16:26:25 America/Denver] PHP Fatal error:  Cannot redeclare class main in /home4/leternel/public_html/project/main.php on line 2
+[30-Jul-2015 17:30:38 America/Denver] PHP Parse error:  syntax error, unexpected ':' in /home4/leternel/public_html/project/app/index.php on line 53
+[30-Jul-2015 18:17:13 America/Denver] PHP Notice:  Undefined index: id in /home4/leternel/public_html/project/app/status.php on line 53
+[30-Jul-2015 19:06:14 America/Denver] PHP Parse error:  syntax error, unexpected '(' in /home4/leternel/public_html/project/app/index.php on line 33
+[30-Jul-2015 19:06:14 America/Denver] PHP Parse error:  syntax error, unexpected '(' in /home4/leternel/public_html/project/app/index.php on line 33
+[30-Jul-2015 19:06:14 America/Denver] PHP Parse error:  syntax error, unexpected '(' in /home4/leternel/public_html/project/app/index.php on line 33
+[30-Jul-2015 19:06:14 America/Denver] PHP Parse error:  syntax error, unexpected '(' in /home4/leternel/public_html/project/app/index.php on line 33
+[30-Jul-2015 19:06:24 America/Denver] PHP Parse error:  syntax error, unexpected '(' in /home4/leternel/public_html/project/app/index.php on line 33
+[30-Jul-2015 19:06:58 America/Denver] PHP Parse error:  syntax error, unexpected '(' in /home4/leternel/public_html/project/app/index.php on line 31
+[30-Jul-2015 19:07:14 America/Denver] PHP Parse error:  syntax error, unexpected '(' in /home4/leternel/public_html/project/app/index.php on line 32
+[30-Jul-2015 19:12:40 America/Denver] PHP Parse error:  syntax error, unexpected ':' in /home4/leternel/public_html/project/app/index.php on line 33
+[30-Jul-2015 19:12:48 America/Denver] PHP Parse error:  syntax error, unexpected ':' in /home4/leternel/public_html/project/app/index.php on line 33
+[30-Jul-2015 20:25:12 America/Denver] PHP Notice:  Undefined index: id in /home4/leternel/public_html/project/app/index.php on line 54
