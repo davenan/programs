@@ -1,2 +1,4 @@
+find . -name .DS_Store -print0 | xargs -0 git-rm
+
 # Ignore Mac DS_Store files
 *.DS_Store
