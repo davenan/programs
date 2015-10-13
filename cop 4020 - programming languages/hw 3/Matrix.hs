@@ -66,6 +66,7 @@ add (Mat((a,b), f)) (Mat((c,d), g)) = if (checkSize (Mat((a,b), f)) (Mat((c,d), 
 -- check the size of each matrix first, if they are not the same size then its an error
 -- else we perform the operation which is multiplication
 -- this function makes calls to checkSize and performOp...
+-- (Need to debug)
 mult       :: Num a => (Matrix a) -> (Matrix a) -> (Matrix a)
 mult (Mat((a,b), f)) (Mat((c,d), g)) = if (checkSize (Mat((a,b), f)) (Mat((c,d), g)))
                                        then performOp (Mat((a,b), f)) (*) (Mat((c,d), g))
